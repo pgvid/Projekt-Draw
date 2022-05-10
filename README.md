@@ -1,4 +1,4 @@
-# Projekt-Draw
+# Project-Draw
 In this project I would like to make my main simple program as good as possible. I would like to make something like Paint but of course more simple.
 If you want you can help!
 This is my simple code I did:
